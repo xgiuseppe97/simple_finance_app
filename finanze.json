@@ -1,1 +1,26 @@
-
+[
+  {
+    "Data":"2025-10-24T00:00:00.000",
+    "Portafoglio":"Postepay",
+    "Tipo":"Entrata",
+    "Categoria":"Regali o entrate occasionali",
+    "Descrizione":"Deposito iniziale sulla carta PostePay Evolution",
+    "Importo":56.42
+  },
+  {
+    "Data":"2025-10-24T00:00:00.000",
+    "Portafoglio":"Isybank",
+    "Tipo":"Entrata",
+    "Categoria":"Regali o entrate occasionali",
+    "Descrizione":"Deposito iniziale sul conto corrente Isybank",
+    "Importo":1.98
+  },
+  {
+    "Data":"2025-10-24T00:00:00.000",
+    "Portafoglio":"Contanti",
+    "Tipo":"Entrata",
+    "Categoria":"Regali o entrate occasionali",
+    "Descrizione":"Deposito iniziale dei Contanti",
+    "Importo":0.38
+  }
+]
